@@ -1,0 +1,16 @@
+name: culturealign
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - pandas
+      - numpy
+      - pillow
+      - matplotlib
+      - tqdm
+      - scikit-learn
+      - sentence-transformers
+      - open_clip_torch

@@ -1,0 +1,1250 @@
+Folder PATH listing
+Volume serial number is 3850-D295
+C:.
+|   .gitignore
+|   cultureAlign_structure.txt
+|   environment.yml
+|   README.md
+|   requirements.txt
+|   
++---data
+|   \---ShilpoBangla
+|       |   Image_alt_text.xlsx
+|       |   PUT_DATASET_HERE.txt
+|       |   shilpobangla_structure.txt
+|       |   
+|       \---ShilpoBangla
+|           +---Folk Arts and Crafts
+|           |       folk_arts_and_crafts_1.jpg
+|           |       folk_arts_and_crafts_10.jpg
+|           |       folk_arts_and_crafts_100.jpg
+|           |       folk_arts_and_crafts_101.jpg
+|           |       folk_arts_and_crafts_102.jpg
+|           |       folk_arts_and_crafts_103.jpg
+|           |       folk_arts_and_crafts_104.jpg
+|           |       folk_arts_and_crafts_105.jpg
+|           |       folk_arts_and_crafts_106.jpg
+|           |       folk_arts_and_crafts_107.jpg
+|           |       folk_arts_and_crafts_108.jpg
+|           |       folk_arts_and_crafts_109.jpg
+|           |       folk_arts_and_crafts_11.jpg
+|           |       folk_arts_and_crafts_110.jpg
+|           |       folk_arts_and_crafts_111.jpg
+|           |       folk_arts_and_crafts_112.jpg
+|           |       folk_arts_and_crafts_113.jpg
+|           |       folk_arts_and_crafts_114.jpg
+|           |       folk_arts_and_crafts_115.jpg
+|           |       folk_arts_and_crafts_116.jpg
+|           |       folk_arts_and_crafts_117.jpg
+|           |       folk_arts_and_crafts_118.jpg
+|           |       folk_arts_and_crafts_119.jpg
+|           |       folk_arts_and_crafts_12.jpg
+|           |       folk_arts_and_crafts_120.jpg
+|           |       folk_arts_and_crafts_121.jpg
+|           |       folk_arts_and_crafts_122.jpg
+|           |       folk_arts_and_crafts_123.jpg
+|           |       folk_arts_and_crafts_124.jpg
+|           |       folk_arts_and_crafts_125.jpg
+|           |       folk_arts_and_crafts_126.jpg
+|           |       folk_arts_and_crafts_127.jpg
+|           |       folk_arts_and_crafts_128.jpg
+|           |       folk_arts_and_crafts_129.jpg
+|           |       folk_arts_and_crafts_13.jpg
+|           |       folk_arts_and_crafts_130.jpg
+|           |       folk_arts_and_crafts_131.jpg
+|           |       folk_arts_and_crafts_132.jpg
+|           |       folk_arts_and_crafts_133.jpg
+|           |       folk_arts_and_crafts_134.jpg
+|           |       folk_arts_and_crafts_135.jpg
+|           |       folk_arts_and_crafts_136.jpg
+|           |       folk_arts_and_crafts_137.jpg
+|           |       folk_arts_and_crafts_138.jpg
+|           |       folk_arts_and_crafts_139.jpg
+|           |       folk_arts_and_crafts_14.jpg
+|           |       folk_arts_and_crafts_140.jpg
+|           |       folk_arts_and_crafts_141.jpg
+|           |       folk_arts_and_crafts_142.jpg
+|           |       folk_arts_and_crafts_143.jpg
+|           |       folk_arts_and_crafts_144.jpg
+|           |       folk_arts_and_crafts_145.jpg
+|           |       folk_arts_and_crafts_146.jpg
+|           |       folk_arts_and_crafts_147.jpg
+|           |       folk_arts_and_crafts_148.jpg
+|           |       folk_arts_and_crafts_149.jpg
+|           |       folk_arts_and_crafts_15.jpg
+|           |       folk_arts_and_crafts_150.jpg
+|           |       folk_arts_and_crafts_151.jpg
+|           |       folk_arts_and_crafts_152.jpg
+|           |       folk_arts_and_crafts_153.jpg
+|           |       folk_arts_and_crafts_154.jpg
+|           |       folk_arts_and_crafts_155.jpg
+|           |       folk_arts_and_crafts_156.jpg
+|           |       folk_arts_and_crafts_157.jpg
+|           |       folk_arts_and_crafts_158.jpg
+|           |       folk_arts_and_crafts_159.jpg
+|           |       folk_arts_and_crafts_16.jpg
+|           |       folk_arts_and_crafts_160.jpg
+|           |       folk_arts_and_crafts_161.jpg
+|           |       folk_arts_and_crafts_162.jpg
+|           |       folk_arts_and_crafts_163.jpg
+|           |       folk_arts_and_crafts_164.jpg
+|           |       folk_arts_and_crafts_165.jpg
+|           |       folk_arts_and_crafts_166.jpg
+|           |       folk_arts_and_crafts_167.jpg
+|           |       folk_arts_and_crafts_168.jpg
+|           |       folk_arts_and_crafts_169.jpg
+|           |       folk_arts_and_crafts_17.jpg
+|           |       folk_arts_and_crafts_170.jpg
+|           |       folk_arts_and_crafts_171.jpg
+|           |       folk_arts_and_crafts_172.jpg
+|           |       folk_arts_and_crafts_173.jpg
+|           |       folk_arts_and_crafts_174.jpg
+|           |       folk_arts_and_crafts_175.jpg
+|           |       folk_arts_and_crafts_176.jpg
+|           |       folk_arts_and_crafts_177.jpg
+|           |       folk_arts_and_crafts_178.jpg
+|           |       folk_arts_and_crafts_179.jpg
+|           |       folk_arts_and_crafts_18.jpg
+|           |       folk_arts_and_crafts_180.jpg
+|           |       folk_arts_and_crafts_181.jpg
+|           |       folk_arts_and_crafts_182.jpg
+|           |       folk_arts_and_crafts_183.jpg
+|           |       folk_arts_and_crafts_184.jpg
+|           |       folk_arts_and_crafts_185.jpg
+|           |       folk_arts_and_crafts_186.jpg
+|           |       folk_arts_and_crafts_187.jpg
+|           |       folk_arts_and_crafts_188.jpg
+|           |       folk_arts_and_crafts_189.jpg
+|           |       folk_arts_and_crafts_19.jpg
+|           |       folk_arts_and_crafts_190.jpg
+|           |       folk_arts_and_crafts_191.jpg
+|           |       folk_arts_and_crafts_192.jpg
+|           |       folk_arts_and_crafts_193.jpg
+|           |       folk_arts_and_crafts_194.jpg
+|           |       folk_arts_and_crafts_195.jpg
+|           |       folk_arts_and_crafts_196.jpg
+|           |       folk_arts_and_crafts_197.jpg
+|           |       folk_arts_and_crafts_198.jpg
+|           |       folk_arts_and_crafts_199.jpg
+|           |       folk_arts_and_crafts_2.jpg
+|           |       folk_arts_and_crafts_20.jpg
+|           |       folk_arts_and_crafts_200.jpg
+|           |       folk_arts_and_crafts_201.jpg
+|           |       folk_arts_and_crafts_202.jpg
+|           |       folk_arts_and_crafts_203.jpg
+|           |       folk_arts_and_crafts_204.jpg
+|           |       folk_arts_and_crafts_205.jpg
+|           |       folk_arts_and_crafts_206.jpg
+|           |       folk_arts_and_crafts_207.jpg
+|           |       folk_arts_and_crafts_208.jpg
+|           |       folk_arts_and_crafts_209.jpg
+|           |       folk_arts_and_crafts_21.jpg
+|           |       folk_arts_and_crafts_210.jpg
+|           |       folk_arts_and_crafts_211.jpg
+|           |       folk_arts_and_crafts_212.jpg
+|           |       folk_arts_and_crafts_213.jpg
+|           |       folk_arts_and_crafts_214.jpg
+|           |       folk_arts_and_crafts_215.jpg
+|           |       folk_arts_and_crafts_216.jpg
+|           |       folk_arts_and_crafts_217.jpg
+|           |       folk_arts_and_crafts_218.jpg
+|           |       folk_arts_and_crafts_219.jpg
+|           |       folk_arts_and_crafts_22.jpg
+|           |       folk_arts_and_crafts_220.jpg
+|           |       folk_arts_and_crafts_221.jpg
+|           |       folk_arts_and_crafts_222.jpg
+|           |       folk_arts_and_crafts_223.jpg
+|           |       folk_arts_and_crafts_224.jpg
+|           |       folk_arts_and_crafts_225.jpg
+|           |       folk_arts_and_crafts_226.jpg
+|           |       folk_arts_and_crafts_227.jpg
+|           |       folk_arts_and_crafts_228.jpg
+|           |       folk_arts_and_crafts_229.jpg
+|           |       folk_arts_and_crafts_23.jpg
+|           |       folk_arts_and_crafts_230.jpg
+|           |       folk_arts_and_crafts_231.jpg
+|           |       folk_arts_and_crafts_232.jpg
+|           |       folk_arts_and_crafts_233.jpg
+|           |       folk_arts_and_crafts_234.jpg
+|           |       folk_arts_and_crafts_235.jpg
+|           |       folk_arts_and_crafts_236.jpg
+|           |       folk_arts_and_crafts_237.jpg
+|           |       folk_arts_and_crafts_238.jpg
+|           |       folk_arts_and_crafts_239.jpg
+|           |       folk_arts_and_crafts_24.jpg
+|           |       folk_arts_and_crafts_240.jpg
+|           |       folk_arts_and_crafts_25.jpg
+|           |       folk_arts_and_crafts_26.jpg
+|           |       folk_arts_and_crafts_27.jpg
+|           |       folk_arts_and_crafts_28.jpg
+|           |       folk_arts_and_crafts_29.jpg
+|           |       folk_arts_and_crafts_3.jpg
+|           |       folk_arts_and_crafts_30.jpg
+|           |       folk_arts_and_crafts_31.jpg
+|           |       folk_arts_and_crafts_32.jpg
+|           |       folk_arts_and_crafts_33.jpg
+|           |       folk_arts_and_crafts_34.jpg
+|           |       folk_arts_and_crafts_35.jpg
+|           |       folk_arts_and_crafts_36.jpg
+|           |       folk_arts_and_crafts_37.jpg
+|           |       folk_arts_and_crafts_38.jpg
+|           |       folk_arts_and_crafts_39.jpg
+|           |       folk_arts_and_crafts_4.jpg
+|           |       folk_arts_and_crafts_40.jpg
+|           |       folk_arts_and_crafts_41.jpg
+|           |       folk_arts_and_crafts_42.jpg
+|           |       folk_arts_and_crafts_43.jpg
+|           |       folk_arts_and_crafts_44.jpg
+|           |       folk_arts_and_crafts_45.jpg
+|           |       folk_arts_and_crafts_46.jpg
+|           |       folk_arts_and_crafts_47.jpg
+|           |       folk_arts_and_crafts_48.jpg
+|           |       folk_arts_and_crafts_49.jpg
+|           |       folk_arts_and_crafts_5.jpg
+|           |       folk_arts_and_crafts_50.jpg
+|           |       folk_arts_and_crafts_51.jpg
+|           |       folk_arts_and_crafts_52.jpg
+|           |       folk_arts_and_crafts_53.jpg
+|           |       folk_arts_and_crafts_54.jpg
+|           |       folk_arts_and_crafts_55.jpg
+|           |       folk_arts_and_crafts_56.jpg
+|           |       folk_arts_and_crafts_57.jpg
+|           |       folk_arts_and_crafts_58.jpg
+|           |       folk_arts_and_crafts_59.jpg
+|           |       folk_arts_and_crafts_6.jpg
+|           |       folk_arts_and_crafts_60.jpg
+|           |       folk_arts_and_crafts_61.jpg
+|           |       folk_arts_and_crafts_62.jpg
+|           |       folk_arts_and_crafts_63.jpg
+|           |       folk_arts_and_crafts_64.jpg
+|           |       folk_arts_and_crafts_65.jpg
+|           |       folk_arts_and_crafts_66.jpg
+|           |       folk_arts_and_crafts_67.jpg
+|           |       folk_arts_and_crafts_68.jpg
+|           |       folk_arts_and_crafts_69.jpg
+|           |       folk_arts_and_crafts_7.jpg
+|           |       folk_arts_and_crafts_70.jpg
+|           |       folk_arts_and_crafts_71.jpg
+|           |       folk_arts_and_crafts_72.jpg
+|           |       folk_arts_and_crafts_73.jpg
+|           |       folk_arts_and_crafts_74.jpg
+|           |       folk_arts_and_crafts_75.jpg
+|           |       folk_arts_and_crafts_76.jpg
+|           |       folk_arts_and_crafts_77.jpg
+|           |       folk_arts_and_crafts_78.jpg
+|           |       folk_arts_and_crafts_79.jpg
+|           |       folk_arts_and_crafts_8.jpg
+|           |       folk_arts_and_crafts_80.jpg
+|           |       folk_arts_and_crafts_81.jpg
+|           |       folk_arts_and_crafts_82.jpg
+|           |       folk_arts_and_crafts_83.jpg
+|           |       folk_arts_and_crafts_84.jpg
+|           |       folk_arts_and_crafts_85.jpg
+|           |       folk_arts_and_crafts_86.jpg
+|           |       folk_arts_and_crafts_87.jpg
+|           |       folk_arts_and_crafts_88.jpg
+|           |       folk_arts_and_crafts_89.jpg
+|           |       folk_arts_and_crafts_9.jpg
+|           |       folk_arts_and_crafts_90.jpg
+|           |       folk_arts_and_crafts_91.jpg
+|           |       folk_arts_and_crafts_92.jpg
+|           |       folk_arts_and_crafts_93.jpg
+|           |       folk_arts_and_crafts_94.jpg
+|           |       folk_arts_and_crafts_95.jpg
+|           |       folk_arts_and_crafts_96.jpg
+|           |       folk_arts_and_crafts_97.jpg
+|           |       folk_arts_and_crafts_98.jpg
+|           |       folk_arts_and_crafts_99.jpg
+|           |       
+|           +---Foods
+|           |       food_1.jpg
+|           |       food_10.jpg
+|           |       food_100.jpg
+|           |       food_101.jpg
+|           |       food_102.jpg
+|           |       food_103.jpg
+|           |       food_104.jpg
+|           |       food_105.jpg
+|           |       food_106.jpg
+|           |       food_107.jpg
+|           |       food_108.jpg
+|           |       food_109.jpg
+|           |       food_11.jpg
+|           |       food_110.jpg
+|           |       food_111.jpg
+|           |       food_112.jpg
+|           |       food_113.jpg
+|           |       food_114.jpg
+|           |       food_115.jpg
+|           |       food_116.jpg
+|           |       food_117.jpg
+|           |       food_118.jpg
+|           |       food_119.jpg
+|           |       food_12.jpg
+|           |       food_120.jpg
+|           |       food_121.jpg
+|           |       food_122.jpg
+|           |       food_123.jpg
+|           |       food_124.jpg
+|           |       food_125.jpg
+|           |       food_126.jpg
+|           |       food_127.jpg
+|           |       food_128.jpg
+|           |       food_129.jpg
+|           |       food_13.jpg
+|           |       food_130.jpg
+|           |       food_131.jpg
+|           |       food_132.jpg
+|           |       food_133.jpg
+|           |       food_134.jpg
+|           |       food_135.jpg
+|           |       food_136.jpg
+|           |       food_137.jpg
+|           |       food_138.jpg
+|           |       food_139.jpg
+|           |       food_14.jpg
+|           |       food_140.jpg
+|           |       food_141.jpg
+|           |       food_142.jpg
+|           |       food_143.jpg
+|           |       food_144.jpg
+|           |       food_145.jpg
+|           |       food_146.jpg
+|           |       food_147.jpg
+|           |       food_148.jpg
+|           |       food_149.jpg
+|           |       food_15.jpg
+|           |       food_150.jpg
+|           |       food_151.jpg
+|           |       food_152.jpg
+|           |       food_153.jpg
+|           |       food_154.jpg
+|           |       food_155.jpg
+|           |       food_156.jpg
+|           |       food_157.jpg
+|           |       food_158.jpg
+|           |       food_159.jpg
+|           |       food_16.jpg
+|           |       food_160.jpg
+|           |       food_161.jpg
+|           |       food_162.jpg
+|           |       food_163.jpg
+|           |       food_164.jpg
+|           |       food_165.jpg
+|           |       food_166.jpg
+|           |       food_167.jpg
+|           |       food_168.jpg
+|           |       food_169.jpg
+|           |       food_17.jpg
+|           |       food_170.jpg
+|           |       food_171.jpg
+|           |       food_172.jpg
+|           |       food_173.jpg
+|           |       food_174.jpg
+|           |       food_175.jpg
+|           |       food_176.jpg
+|           |       food_177.jpg
+|           |       food_178.jpg
+|           |       food_179.jpg
+|           |       food_18.jpg
+|           |       food_180.jpg
+|           |       food_181.jpg
+|           |       food_182.jpg
+|           |       food_183.jpg
+|           |       food_184.jpg
+|           |       food_185.jpg
+|           |       food_186.jpg
+|           |       food_187.jpg
+|           |       food_188.jpg
+|           |       food_189.jpg
+|           |       food_19.jpg
+|           |       food_190.jpg
+|           |       food_191.jpg
+|           |       food_192.jpg
+|           |       food_193.jpg
+|           |       food_194.jpg
+|           |       food_195.jpg
+|           |       food_196.jpg
+|           |       food_197.jpg
+|           |       food_198.jpg
+|           |       food_199.jpg
+|           |       food_2.jpg
+|           |       food_20.jpg
+|           |       food_200.jpg
+|           |       food_201.jpg
+|           |       food_202.jpg
+|           |       food_203.jpg
+|           |       food_204.jpg
+|           |       food_205.jpg
+|           |       food_206.jpg
+|           |       food_207.jpg
+|           |       food_208.jpg
+|           |       food_209.jpg
+|           |       food_21.jpg
+|           |       food_210.jpg
+|           |       food_211.jpg
+|           |       food_212.jpg
+|           |       food_213.jpg
+|           |       food_214.jpg
+|           |       food_215.jpg
+|           |       food_216.jpg
+|           |       food_217.jpg
+|           |       food_218.jpg
+|           |       food_219.jpg
+|           |       food_22.jpg
+|           |       food_220.jpg
+|           |       food_221.jpg
+|           |       food_222.jpg
+|           |       food_223.jpg
+|           |       food_224.jpg
+|           |       food_225.jpg
+|           |       food_226.jpg
+|           |       food_227.jpg
+|           |       food_228.jpg
+|           |       food_229.jpg
+|           |       food_23.jpg
+|           |       food_230.jpg
+|           |       food_231.jpg
+|           |       food_232.jpg
+|           |       food_233.jpg
+|           |       food_234.jpg
+|           |       food_235.jpg
+|           |       food_236.jpg
+|           |       food_237.jpg
+|           |       food_238.jpg
+|           |       food_239.jpg
+|           |       food_24.jpg
+|           |       food_240.jpg
+|           |       food_25.jpg
+|           |       food_26.jpg
+|           |       food_27.jpg
+|           |       food_28.jpg
+|           |       food_29.jpg
+|           |       food_3.jpg
+|           |       food_30.jpg
+|           |       food_31.jpg
+|           |       food_32.jpg
+|           |       food_33.jpg
+|           |       food_34.jpg
+|           |       food_35.jpg
+|           |       food_36.jpg
+|           |       food_37.jpg
+|           |       food_38.jpg
+|           |       food_39.jpg
+|           |       food_4.jpg
+|           |       food_40.jpg
+|           |       food_41.jpg
+|           |       food_42.jpg
+|           |       food_43.jpg
+|           |       food_44.jpg
+|           |       food_45.jpg
+|           |       food_46.jpg
+|           |       food_47.jpg
+|           |       food_48.jpg
+|           |       food_49.jpg
+|           |       food_5.jpg
+|           |       food_50.jpg
+|           |       food_51.jpg
+|           |       food_52.jpg
+|           |       food_53.jpg
+|           |       food_54.jpg
+|           |       food_55.jpg
+|           |       food_56.jpg
+|           |       food_57.jpg
+|           |       food_58.jpg
+|           |       food_59.jpg
+|           |       food_6.jpg
+|           |       food_60.jpg
+|           |       food_61.jpg
+|           |       food_62.jpg
+|           |       food_63.jpg
+|           |       food_64.jpg
+|           |       food_65.jpg
+|           |       food_66.jpg
+|           |       food_67.jpg
+|           |       food_68.jpg
+|           |       food_69.jpg
+|           |       food_7.jpg
+|           |       food_70.jpg
+|           |       food_71.jpg
+|           |       food_72.jpg
+|           |       food_73.jpg
+|           |       food_74.jpg
+|           |       food_75.jpg
+|           |       food_76.jpg
+|           |       food_77.jpg
+|           |       food_78.jpg
+|           |       food_79.jpg
+|           |       food_8.jpg
+|           |       food_80.jpg
+|           |       food_81.jpg
+|           |       food_82.jpg
+|           |       food_83.jpg
+|           |       food_84.jpg
+|           |       food_85.jpg
+|           |       food_86.jpg
+|           |       food_87.jpg
+|           |       food_88.jpg
+|           |       food_89.jpg
+|           |       food_9.jpg
+|           |       food_90.jpg
+|           |       food_91.jpg
+|           |       food_92.jpg
+|           |       food_93.jpg
+|           |       food_94.jpg
+|           |       food_95.jpg
+|           |       food_96.jpg
+|           |       food_97.jpg
+|           |       food_98.jpg
+|           |       food_99.jpg
+|           |       
+|           +---Jewelry
+|           |       jewelry_1.jpg
+|           |       jewelry_10.jpg
+|           |       jewelry_100.jpg
+|           |       jewelry_101.jpg
+|           |       jewelry_102.jpg
+|           |       jewelry_103.jpg
+|           |       jewelry_104.jpg
+|           |       jewelry_105.jpg
+|           |       jewelry_106.jpg
+|           |       jewelry_107.jpg
+|           |       jewelry_108.jpg
+|           |       jewelry_109.jpg
+|           |       jewelry_11.jpg
+|           |       jewelry_110.jpg
+|           |       jewelry_111.jpg
+|           |       jewelry_112.jpg
+|           |       jewelry_113.jpg
+|           |       jewelry_114.jpg
+|           |       jewelry_115.jpg
+|           |       jewelry_116.jpg
+|           |       jewelry_117.jpg
+|           |       jewelry_118.jpg
+|           |       jewelry_119.jpg
+|           |       jewelry_12.jpg
+|           |       jewelry_120.jpg
+|           |       jewelry_121.jpg
+|           |       jewelry_122.jpg
+|           |       jewelry_123.jpg
+|           |       jewelry_124.jpg
+|           |       jewelry_125.jpg
+|           |       jewelry_126.jpg
+|           |       jewelry_127.jpg
+|           |       jewelry_128.jpg
+|           |       jewelry_129.jpg
+|           |       jewelry_13.jpg
+|           |       jewelry_130.jpg
+|           |       jewelry_131.jpg
+|           |       jewelry_132.jpg
+|           |       jewelry_133.jpg
+|           |       jewelry_134.jpg
+|           |       jewelry_135.jpg
+|           |       jewelry_136.jpg
+|           |       jewelry_137.jpg
+|           |       jewelry_138.jpg
+|           |       jewelry_139.jpg
+|           |       jewelry_14.jpg
+|           |       jewelry_140.jpg
+|           |       jewelry_141.jpg
+|           |       jewelry_142.jpg
+|           |       jewelry_143.jpg
+|           |       jewelry_144.jpg
+|           |       jewelry_145.jpg
+|           |       jewelry_146.jpg
+|           |       jewelry_147.jpg
+|           |       jewelry_148.jpg
+|           |       jewelry_149.jpg
+|           |       jewelry_15.jpg
+|           |       jewelry_150.jpg
+|           |       jewelry_151.jpg
+|           |       jewelry_152.jpg
+|           |       jewelry_153.jpg
+|           |       jewelry_154.jpg
+|           |       jewelry_155.jpg
+|           |       jewelry_156.jpg
+|           |       jewelry_157.jpg
+|           |       jewelry_158.jpg
+|           |       jewelry_159.jpg
+|           |       jewelry_16.jpg
+|           |       jewelry_160.jpg
+|           |       jewelry_161.jpg
+|           |       jewelry_162.jpg
+|           |       jewelry_163.jpg
+|           |       jewelry_164.jpg
+|           |       jewelry_165.jpg
+|           |       jewelry_166.jpg
+|           |       jewelry_167.jpg
+|           |       jewelry_168.jpg
+|           |       jewelry_169.jpg
+|           |       jewelry_17.jpg
+|           |       jewelry_170.jpg
+|           |       jewelry_171.jpg
+|           |       jewelry_172.jpg
+|           |       jewelry_173.jpg
+|           |       jewelry_174.jpg
+|           |       jewelry_175.jpg
+|           |       jewelry_176.jpg
+|           |       jewelry_177.jpg
+|           |       jewelry_178.jpg
+|           |       jewelry_179.jpg
+|           |       jewelry_18.jpg
+|           |       jewelry_180.jpg
+|           |       jewelry_181.jpg
+|           |       jewelry_182.jpg
+|           |       jewelry_183.jpg
+|           |       jewelry_184.jpg
+|           |       jewelry_185.jpg
+|           |       jewelry_186.jpg
+|           |       jewelry_187.jpg
+|           |       jewelry_188.jpg
+|           |       jewelry_189.jpg
+|           |       jewelry_19.jpg
+|           |       jewelry_190.jpg
+|           |       jewelry_191.jpg
+|           |       jewelry_192.jpg
+|           |       jewelry_193.jpg
+|           |       jewelry_194.jpg
+|           |       jewelry_195.jpg
+|           |       jewelry_196.jpg
+|           |       jewelry_197.jpg
+|           |       jewelry_198.jpg
+|           |       jewelry_199.jpg
+|           |       jewelry_2.jpg
+|           |       jewelry_20.jpg
+|           |       jewelry_200.jpg
+|           |       jewelry_201.jpg
+|           |       jewelry_202.jpg
+|           |       jewelry_203.jpg
+|           |       jewelry_204.jpg
+|           |       jewelry_205.jpg
+|           |       jewelry_206.jpg
+|           |       jewelry_207.jpg
+|           |       jewelry_208.jpg
+|           |       jewelry_209.jpg
+|           |       jewelry_21.jpg
+|           |       jewelry_210.jpg
+|           |       jewelry_211.jpg
+|           |       jewelry_212.jpg
+|           |       jewelry_213.jpg
+|           |       jewelry_214.jpg
+|           |       jewelry_215.jpg
+|           |       jewelry_216.jpg
+|           |       jewelry_217.jpg
+|           |       jewelry_218.jpg
+|           |       jewelry_219.jpg
+|           |       jewelry_22.jpg
+|           |       jewelry_220.jpg
+|           |       jewelry_221.jpg
+|           |       jewelry_222.jpg
+|           |       jewelry_223.jpg
+|           |       jewelry_224.jpg
+|           |       jewelry_225.jpg
+|           |       jewelry_226.jpg
+|           |       jewelry_227.jpg
+|           |       jewelry_228.jpg
+|           |       jewelry_229.jpg
+|           |       jewelry_23.jpg
+|           |       jewelry_230.jpg
+|           |       jewelry_231.jpg
+|           |       jewelry_232.jpg
+|           |       jewelry_233.jpg
+|           |       jewelry_234.jpg
+|           |       jewelry_235.jpg
+|           |       jewelry_236.jpg
+|           |       jewelry_237.jpg
+|           |       jewelry_238.jpg
+|           |       jewelry_239.jpg
+|           |       jewelry_24.jpg
+|           |       jewelry_240.jpg
+|           |       jewelry_25.jpg
+|           |       jewelry_26.jpg
+|           |       jewelry_27.jpg
+|           |       jewelry_28.jpg
+|           |       jewelry_29.jpg
+|           |       jewelry_3.jpg
+|           |       jewelry_30.jpg
+|           |       jewelry_31.jpg
+|           |       jewelry_32.jpg
+|           |       jewelry_33.jpg
+|           |       jewelry_34.jpg
+|           |       jewelry_35.jpg
+|           |       jewelry_36.jpg
+|           |       jewelry_37.jpg
+|           |       jewelry_38.jpg
+|           |       jewelry_39.jpg
+|           |       jewelry_4.jpg
+|           |       jewelry_40.jpg
+|           |       jewelry_41.jpg
+|           |       jewelry_42.jpg
+|           |       jewelry_43.jpg
+|           |       jewelry_44.jpg
+|           |       jewelry_45.jpg
+|           |       jewelry_46.jpg
+|           |       jewelry_47.jpg
+|           |       jewelry_48.jpg
+|           |       jewelry_49.jpg
+|           |       jewelry_5.jpg
+|           |       jewelry_50.jpg
+|           |       jewelry_51.jpg
+|           |       jewelry_52.jpg
+|           |       jewelry_53.jpg
+|           |       jewelry_54.jpg
+|           |       jewelry_55.jpg
+|           |       jewelry_56.jpg
+|           |       jewelry_57.jpg
+|           |       jewelry_58.jpg
+|           |       jewelry_59.jpg
+|           |       jewelry_6.jpg
+|           |       jewelry_60.jpg
+|           |       jewelry_61.jpg
+|           |       jewelry_62.jpg
+|           |       jewelry_63.jpg
+|           |       jewelry_64.jpg
+|           |       jewelry_65.jpg
+|           |       jewelry_66.jpg
+|           |       jewelry_67.jpg
+|           |       jewelry_68.jpg
+|           |       jewelry_69.jpg
+|           |       jewelry_7.jpg
+|           |       jewelry_70.jpg
+|           |       jewelry_71.jpg
+|           |       jewelry_72.jpg
+|           |       jewelry_73.jpg
+|           |       jewelry_74.jpg
+|           |       jewelry_75.jpg
+|           |       jewelry_76.jpg
+|           |       jewelry_77.jpg
+|           |       jewelry_78.jpg
+|           |       jewelry_79.jpg
+|           |       jewelry_8.jpg
+|           |       jewelry_80.jpg
+|           |       jewelry_81.jpg
+|           |       jewelry_82.jpg
+|           |       jewelry_83.jpg
+|           |       jewelry_84.jpg
+|           |       jewelry_85.jpg
+|           |       jewelry_86.jpg
+|           |       jewelry_87.jpg
+|           |       jewelry_88.jpg
+|           |       jewelry_89.jpg
+|           |       jewelry_9.jpg
+|           |       jewelry_90.jpg
+|           |       jewelry_91.jpg
+|           |       jewelry_92.jpg
+|           |       jewelry_93.jpg
+|           |       jewelry_94.jpg
+|           |       jewelry_95.jpg
+|           |       jewelry_96.jpg
+|           |       jewelry_97.jpg
+|           |       jewelry_98.jpg
+|           |       jewelry_99.jpg
+|           |       
+|           +---Musical Instruments
+|           |       musical_instrument_1.jpg
+|           |       musical_instrument_10.jpg
+|           |       musical_instrument_100.jpg
+|           |       musical_instrument_101.jpg
+|           |       musical_instrument_102.jpg
+|           |       musical_instrument_103.jpg
+|           |       musical_instrument_104.jpg
+|           |       musical_instrument_105.jpg
+|           |       musical_instrument_106.jpg
+|           |       musical_instrument_107.jpg
+|           |       musical_instrument_108.jpg
+|           |       musical_instrument_109.jpg
+|           |       musical_instrument_11.jpg
+|           |       musical_instrument_110.jpg
+|           |       musical_instrument_111.jpg
+|           |       musical_instrument_112.jpg
+|           |       musical_instrument_113.jpg
+|           |       musical_instrument_114.jpg
+|           |       musical_instrument_115.jpg
+|           |       musical_instrument_116.jpg
+|           |       musical_instrument_117.jpg
+|           |       musical_instrument_118.jpg
+|           |       musical_instrument_119.jpg
+|           |       musical_instrument_12.jpg
+|           |       musical_instrument_120.jpg
+|           |       musical_instrument_121.jpg
+|           |       musical_instrument_122.jpg
+|           |       musical_instrument_123.jpg
+|           |       musical_instrument_124.jpg
+|           |       musical_instrument_125.jpg
+|           |       musical_instrument_126.jpg
+|           |       musical_instrument_127.jpg
+|           |       musical_instrument_128.jpg
+|           |       musical_instrument_129.jpg
+|           |       musical_instrument_13.jpg
+|           |       musical_instrument_130.jpg
+|           |       musical_instrument_131.jpg
+|           |       musical_instrument_132.jpg
+|           |       musical_instrument_133.jpg
+|           |       musical_instrument_134.jpg
+|           |       musical_instrument_135.jpg
+|           |       musical_instrument_136.jpg
+|           |       musical_instrument_137.jpg
+|           |       musical_instrument_138.jpg
+|           |       musical_instrument_139.jpg
+|           |       musical_instrument_14.jpg
+|           |       musical_instrument_140.jpg
+|           |       musical_instrument_141.jpg
+|           |       musical_instrument_142.jpg
+|           |       musical_instrument_143.jpg
+|           |       musical_instrument_144.jpg
+|           |       musical_instrument_145.jpg
+|           |       musical_instrument_146.jpg
+|           |       musical_instrument_147.jpg
+|           |       musical_instrument_148.jpg
+|           |       musical_instrument_149.jpg
+|           |       musical_instrument_15.jpg
+|           |       musical_instrument_150.jpg
+|           |       musical_instrument_151.jpg
+|           |       musical_instrument_152.jpg
+|           |       musical_instrument_153.jpg
+|           |       musical_instrument_154.jpg
+|           |       musical_instrument_155.jpg
+|           |       musical_instrument_156.jpg
+|           |       musical_instrument_157.jpg
+|           |       musical_instrument_158.jpg
+|           |       musical_instrument_159.jpg
+|           |       musical_instrument_16.jpg
+|           |       musical_instrument_160.jpg
+|           |       musical_instrument_161.jpg
+|           |       musical_instrument_162.jpg
+|           |       musical_instrument_163.jpg
+|           |       musical_instrument_164.jpg
+|           |       musical_instrument_165.jpg
+|           |       musical_instrument_166.jpg
+|           |       musical_instrument_167.jpg
+|           |       musical_instrument_168.jpg
+|           |       musical_instrument_169.jpg
+|           |       musical_instrument_17.jpg
+|           |       musical_instrument_170.jpg
+|           |       musical_instrument_171.jpg
+|           |       musical_instrument_172.jpg
+|           |       musical_instrument_173.jpg
+|           |       musical_instrument_174.jpg
+|           |       musical_instrument_175.jpg
+|           |       musical_instrument_176.jpg
+|           |       musical_instrument_177.jpg
+|           |       musical_instrument_178.jpg
+|           |       musical_instrument_179.jpg
+|           |       musical_instrument_18.jpg
+|           |       musical_instrument_180.jpg
+|           |       musical_instrument_181.jpg
+|           |       musical_instrument_182.jpg
+|           |       musical_instrument_183.jpg
+|           |       musical_instrument_184.jpg
+|           |       musical_instrument_185.jpg
+|           |       musical_instrument_186.jpg
+|           |       musical_instrument_187.jpg
+|           |       musical_instrument_188.jpg
+|           |       musical_instrument_189.jpg
+|           |       musical_instrument_19.jpg
+|           |       musical_instrument_190.jpg
+|           |       musical_instrument_191.jpg
+|           |       musical_instrument_192.jpg
+|           |       musical_instrument_193.jpg
+|           |       musical_instrument_194.jpg
+|           |       musical_instrument_195.jpg
+|           |       musical_instrument_196.jpg
+|           |       musical_instrument_197.jpg
+|           |       musical_instrument_198.jpg
+|           |       musical_instrument_199.jpg
+|           |       musical_instrument_2.jpg
+|           |       musical_instrument_20.jpg
+|           |       musical_instrument_200.jpg
+|           |       musical_instrument_201.jpg
+|           |       musical_instrument_202.jpg
+|           |       musical_instrument_203.jpg
+|           |       musical_instrument_204.jpg
+|           |       musical_instrument_205.jpg
+|           |       musical_instrument_206.jpg
+|           |       musical_instrument_207.jpg
+|           |       musical_instrument_208.jpg
+|           |       musical_instrument_209.jpg
+|           |       musical_instrument_21.jpg
+|           |       musical_instrument_210.jpg
+|           |       musical_instrument_211.jpg
+|           |       musical_instrument_212.jpg
+|           |       musical_instrument_213.jpg
+|           |       musical_instrument_214.jpg
+|           |       musical_instrument_215.jpg
+|           |       musical_instrument_216.jpg
+|           |       musical_instrument_217.jpg
+|           |       musical_instrument_218.jpg
+|           |       musical_instrument_219.jpg
+|           |       musical_instrument_22.jpg
+|           |       musical_instrument_220.jpg
+|           |       musical_instrument_221.jpg
+|           |       musical_instrument_222.jpg
+|           |       musical_instrument_223.jpg
+|           |       musical_instrument_224.jpg
+|           |       musical_instrument_225.jpg
+|           |       musical_instrument_226.jpg
+|           |       musical_instrument_227.jpg
+|           |       musical_instrument_228.jpg
+|           |       musical_instrument_229.jpg
+|           |       musical_instrument_23.jpg
+|           |       musical_instrument_230.jpg
+|           |       musical_instrument_231.jpg
+|           |       musical_instrument_232.jpg
+|           |       musical_instrument_233.jpg
+|           |       musical_instrument_234.jpg
+|           |       musical_instrument_235.jpg
+|           |       musical_instrument_236.jpg
+|           |       musical_instrument_237.jpg
+|           |       musical_instrument_238.jpg
+|           |       musical_instrument_239.jpg
+|           |       musical_instrument_24.jpg
+|           |       musical_instrument_240.jpg
+|           |       musical_instrument_25.jpg
+|           |       musical_instrument_26.jpg
+|           |       musical_instrument_27.jpg
+|           |       musical_instrument_28.jpg
+|           |       musical_instrument_29.jpg
+|           |       musical_instrument_3.jpg
+|           |       musical_instrument_30.jpg
+|           |       musical_instrument_31.jpg
+|           |       musical_instrument_32.jpg
+|           |       musical_instrument_33.jpg
+|           |       musical_instrument_34.jpg
+|           |       musical_instrument_35.jpg
+|           |       musical_instrument_36.jpg
+|           |       musical_instrument_37.jpg
+|           |       musical_instrument_38.jpg
+|           |       musical_instrument_39.jpg
+|           |       musical_instrument_4.jpg
+|           |       musical_instrument_40.jpg
+|           |       musical_instrument_41.jpg
+|           |       musical_instrument_42.jpg
+|           |       musical_instrument_43.jpg
+|           |       musical_instrument_44.jpg
+|           |       musical_instrument_45.jpg
+|           |       musical_instrument_46.jpg
+|           |       musical_instrument_47.jpg
+|           |       musical_instrument_48.jpg
+|           |       musical_instrument_49.jpg
+|           |       musical_instrument_5.jpg
+|           |       musical_instrument_50.jpg
+|           |       musical_instrument_51.jpg
+|           |       musical_instrument_52.jpg
+|           |       musical_instrument_53.jpg
+|           |       musical_instrument_54.jpg
+|           |       musical_instrument_55.jpg
+|           |       musical_instrument_56.jpg
+|           |       musical_instrument_57.jpg
+|           |       musical_instrument_58.jpg
+|           |       musical_instrument_59.jpg
+|           |       musical_instrument_6.jpg
+|           |       musical_instrument_60.jpg
+|           |       musical_instrument_61.jpg
+|           |       musical_instrument_62.jpg
+|           |       musical_instrument_63.jpg
+|           |       musical_instrument_64.jpg
+|           |       musical_instrument_65.jpg
+|           |       musical_instrument_66.jpg
+|           |       musical_instrument_67.jpg
+|           |       musical_instrument_68.jpg
+|           |       musical_instrument_69.jpg
+|           |       musical_instrument_7.jpg
+|           |       musical_instrument_70.jpg
+|           |       musical_instrument_71.jpg
+|           |       musical_instrument_72.jpg
+|           |       musical_instrument_73.jpg
+|           |       musical_instrument_74.jpg
+|           |       musical_instrument_75.jpg
+|           |       musical_instrument_76.jpg
+|           |       musical_instrument_77.jpg
+|           |       musical_instrument_78.jpg
+|           |       musical_instrument_79.jpg
+|           |       musical_instrument_8.jpg
+|           |       musical_instrument_80.jpg
+|           |       musical_instrument_81.jpg
+|           |       musical_instrument_82.jpg
+|           |       musical_instrument_83.jpg
+|           |       musical_instrument_84.jpg
+|           |       musical_instrument_85.jpg
+|           |       musical_instrument_86.jpg
+|           |       musical_instrument_87.jpg
+|           |       musical_instrument_88.jpg
+|           |       musical_instrument_89.jpg
+|           |       musical_instrument_9.jpg
+|           |       musical_instrument_90.jpg
+|           |       musical_instrument_91.jpg
+|           |       musical_instrument_92.jpg
+|           |       musical_instrument_93.jpg
+|           |       musical_instrument_94.jpg
+|           |       musical_instrument_95.jpg
+|           |       musical_instrument_96.jpg
+|           |       musical_instrument_97.jpg
+|           |       musical_instrument_98.jpg
+|           |       musical_instrument_99.jpg
+|           |       
+|           \---Traditional Clothing
+|                   traditional_clothing_1.jpg
+|                   traditional_clothing_10.jpg
+|                   traditional_clothing_100.jpg
+|                   traditional_clothing_101.jpg
+|                   traditional_clothing_102.jpg
+|                   traditional_clothing_103.jpg
+|                   traditional_clothing_104.jpg
+|                   traditional_clothing_105.jpg
+|                   traditional_clothing_106.jpg
+|                   traditional_clothing_107.jpg
+|                   traditional_clothing_108.jpg
+|                   traditional_clothing_109.jpg
+|                   traditional_clothing_11.jpg
+|                   traditional_clothing_110.jpg
+|                   traditional_clothing_111.jpg
+|                   traditional_clothing_112.jpg
+|                   traditional_clothing_113.jpg
+|                   traditional_clothing_114.jpg
+|                   traditional_clothing_115.jpg
+|                   traditional_clothing_116.jpg
+|                   traditional_clothing_117.jpg
+|                   traditional_clothing_118.jpg
+|                   traditional_clothing_119.jpg
+|                   traditional_clothing_12.jpg
+|                   traditional_clothing_120.jpg
+|                   traditional_clothing_121.jpg
+|                   traditional_clothing_122.jpg
+|                   traditional_clothing_123.jpg
+|                   traditional_clothing_124.jpg
+|                   traditional_clothing_125.jpg
+|                   traditional_clothing_126.jpg
+|                   traditional_clothing_127.jpg
+|                   traditional_clothing_128.jpg
+|                   traditional_clothing_129.jpg
+|                   traditional_clothing_13.jpg
+|                   traditional_clothing_130.jpg
+|                   traditional_clothing_131.jpg
+|                   traditional_clothing_132.jpg
+|                   traditional_clothing_133.jpg
+|                   traditional_clothing_134.jpg
+|                   traditional_clothing_135.jpg
+|                   traditional_clothing_136.jpg
+|                   traditional_clothing_137.jpg
+|                   traditional_clothing_138.jpg
+|                   traditional_clothing_139.jpg
+|                   traditional_clothing_14.jpg
+|                   traditional_clothing_140.jpg
+|                   traditional_clothing_141.jpg
+|                   traditional_clothing_142.jpg
+|                   traditional_clothing_143.jpg
+|                   traditional_clothing_144.jpg
+|                   traditional_clothing_145.jpg
+|                   traditional_clothing_146.jpg
+|                   traditional_clothing_147.jpg
+|                   traditional_clothing_148.jpg
+|                   traditional_clothing_149.jpg
+|                   traditional_clothing_15.jpg
+|                   traditional_clothing_150.jpg
+|                   traditional_clothing_151.jpg
+|                   traditional_clothing_152.jpg
+|                   traditional_clothing_153.jpg
+|                   traditional_clothing_154.jpg
+|                   traditional_clothing_155.jpg
+|                   traditional_clothing_156.jpg
+|                   traditional_clothing_157.jpg
+|                   traditional_clothing_158.jpg
+|                   traditional_clothing_159.jpg
+|                   traditional_clothing_16.jpg
+|                   traditional_clothing_160.jpg
+|                   traditional_clothing_161.jpg
+|                   traditional_clothing_162.jpg
+|                   traditional_clothing_163.jpg
+|                   traditional_clothing_164.jpg
+|                   traditional_clothing_165.jpg
+|                   traditional_clothing_166.jpg
+|                   traditional_clothing_167.jpg
+|                   traditional_clothing_168.jpg
+|                   traditional_clothing_169.jpg
+|                   traditional_clothing_17.jpg
+|                   traditional_clothing_170.jpg
+|                   traditional_clothing_171.jpg
+|                   traditional_clothing_172.jpg
+|                   traditional_clothing_173.jpg
+|                   traditional_clothing_174.jpg
+|                   traditional_clothing_175.jpg
+|                   traditional_clothing_176.jpg
+|                   traditional_clothing_177.jpg
+|                   traditional_clothing_178.jpg
+|                   traditional_clothing_179.jpg
+|                   traditional_clothing_18.jpg
+|                   traditional_clothing_180.jpg
+|                   traditional_clothing_181.jpg
+|                   traditional_clothing_182.jpg
+|                   traditional_clothing_183.jpg
+|                   traditional_clothing_184.jpg
+|                   traditional_clothing_185.jpg
+|                   traditional_clothing_186.jpg
+|                   traditional_clothing_187.jpg
+|                   traditional_clothing_188.jpg
+|                   traditional_clothing_189.jpg
+|                   traditional_clothing_19.jpg
+|                   traditional_clothing_190.jpg
+|                   traditional_clothing_191.jpg
+|                   traditional_clothing_192.jpg
+|                   traditional_clothing_193.jpg
+|                   traditional_clothing_194.jpg
+|                   traditional_clothing_195.jpg
+|                   traditional_clothing_196.jpg
+|                   traditional_clothing_197.jpg
+|                   traditional_clothing_198.jpg
+|                   traditional_clothing_199.jpg
+|                   traditional_clothing_2.jpg
+|                   traditional_clothing_20.jpg
+|                   traditional_clothing_200.jpg
+|                   traditional_clothing_201.jpg
+|                   traditional_clothing_202.jpg
+|                   traditional_clothing_203.jpg
+|                   traditional_clothing_204.jpg
+|                   traditional_clothing_205.jpg
+|                   traditional_clothing_206.jpg
+|                   traditional_clothing_207.jpg
+|                   traditional_clothing_208.jpg
+|                   traditional_clothing_209.jpg
+|                   traditional_clothing_21.jpg
+|                   traditional_clothing_210.jpg
+|                   traditional_clothing_211.jpg
+|                   traditional_clothing_212.jpg
+|                   traditional_clothing_213.jpg
+|                   traditional_clothing_214.jpg
+|                   traditional_clothing_215.jpg
+|                   traditional_clothing_216.jpg
+|                   traditional_clothing_217.jpg
+|                   traditional_clothing_218.jpg
+|                   traditional_clothing_219.jpg
+|                   traditional_clothing_22.jpg
+|                   traditional_clothing_220.jpg
+|                   traditional_clothing_221.jpg
+|                   traditional_clothing_222.jpg
+|                   traditional_clothing_223.jpg
+|                   traditional_clothing_224.jpg
+|                   traditional_clothing_225.jpg
+|                   traditional_clothing_226.jpg
+|                   traditional_clothing_227.jpg
+|                   traditional_clothing_228.jpg
+|                   traditional_clothing_229.jpg
+|                   traditional_clothing_23.jpg
+|                   traditional_clothing_230.jpg
+|                   traditional_clothing_231.jpg
+|                   traditional_clothing_232.jpg
+|                   traditional_clothing_233.jpg
+|                   traditional_clothing_234.jpg
+|                   traditional_clothing_235.jpg
+|                   traditional_clothing_236.jpg
+|                   traditional_clothing_237.jpg
+|                   traditional_clothing_238.jpg
+|                   traditional_clothing_239.jpg
+|                   traditional_clothing_24.jpg
+|                   traditional_clothing_240.jpg
+|                   traditional_clothing_25.jpg
+|                   traditional_clothing_26.jpg
+|                   traditional_clothing_27.jpg
+|                   traditional_clothing_28.jpg
+|                   traditional_clothing_29.jpg
+|                   traditional_clothing_3.jpg
+|                   traditional_clothing_30.jpg
+|                   traditional_clothing_31.jpg
+|                   traditional_clothing_32.jpg
+|                   traditional_clothing_33.jpg
+|                   traditional_clothing_34.jpg
+|                   traditional_clothing_35.jpg
+|                   traditional_clothing_36.jpg
+|                   traditional_clothing_37.jpg
+|                   traditional_clothing_38.jpg
+|                   traditional_clothing_39.jpg
+|                   traditional_clothing_4.jpg
+|                   traditional_clothing_40.jpg
+|                   traditional_clothing_41.jpg
+|                   traditional_clothing_42.jpg
+|                   traditional_clothing_43.jpg
+|                   traditional_clothing_44.jpg
+|                   traditional_clothing_45.jpg
+|                   traditional_clothing_46.jpg
+|                   traditional_clothing_47.jpg
+|                   traditional_clothing_48.jpg
+|                   traditional_clothing_49.jpg
+|                   traditional_clothing_5.jpg
+|                   traditional_clothing_50.jpg
+|                   traditional_clothing_51.jpg
+|                   traditional_clothing_52.jpg
+|                   traditional_clothing_53.jpg
+|                   traditional_clothing_54.jpg
+|                   traditional_clothing_55.jpg
+|                   traditional_clothing_56.jpg
+|                   traditional_clothing_57.jpg
+|                   traditional_clothing_58.jpg
+|                   traditional_clothing_59.jpg
+|                   traditional_clothing_6.jpg
+|                   traditional_clothing_60.jpg
+|                   traditional_clothing_61.jpg
+|                   traditional_clothing_62.jpg
+|                   traditional_clothing_63.jpg
+|                   traditional_clothing_64.jpg
+|                   traditional_clothing_65.jpg
+|                   traditional_clothing_66.jpg
+|                   traditional_clothing_67.jpg
+|                   traditional_clothing_68.jpg
+|                   traditional_clothing_69.jpg
+|                   traditional_clothing_7.jpg
+|                   traditional_clothing_70.jpg
+|                   traditional_clothing_71.jpg
+|                   traditional_clothing_72.jpg
+|                   traditional_clothing_73.jpg
+|                   traditional_clothing_74.jpg
+|                   traditional_clothing_75.jpg
+|                   traditional_clothing_76.jpg
+|                   traditional_clothing_77.jpg
+|                   traditional_clothing_78.jpg
+|                   traditional_clothing_79.jpg
+|                   traditional_clothing_8.jpg
+|                   traditional_clothing_80.jpg
+|                   traditional_clothing_81.jpg
+|                   traditional_clothing_82.jpg
+|                   traditional_clothing_83.jpg
+|                   traditional_clothing_84.jpg
+|                   traditional_clothing_85.jpg
+|                   traditional_clothing_86.jpg
+|                   traditional_clothing_87.jpg
+|                   traditional_clothing_88.jpg
+|                   traditional_clothing_89.jpg
+|                   traditional_clothing_9.jpg
+|                   traditional_clothing_90.jpg
+|                   traditional_clothing_91.jpg
+|                   traditional_clothing_92.jpg
+|                   traditional_clothing_93.jpg
+|                   traditional_clothing_94.jpg
+|                   traditional_clothing_95.jpg
+|                   traditional_clothing_96.jpg
+|                   traditional_clothing_97.jpg
+|                   traditional_clothing_98.jpg
+|                   traditional_clothing_99.jpg
+|                   
++---results
+|       .gitkeep
+|       caption_pair_inspection.csv
+|       culturealign_image_retrieval.csv
+|       image_retrieval_duplicate_aware.csv
+|       image_retrieval_unique_items.csv
+|       image_top5_predictions.csv
+|       
+\---src
+    |   common.py
+    |   config.py
+    |   evaluate_retrieval.py
+    |   evaluate_unique_retrieval.py
+    |   inspect_dataset.py
+    |   inspect_retrieval.py
+    |   run_image_baseline.py
+    |   run_text_baseline.py
+    |   run_unique_pair_baseline.py
+    |   validate_dataset.py
+    |   
+    \---__pycache__
+            common.cpython-311.pyc
+            config.cpython-311.pyc
+            
