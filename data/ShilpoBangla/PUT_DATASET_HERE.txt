@@ -1,0 +1,2 @@
+Extract your ShilpoBangla dataset into this folder. Keep the original CSV annotation file and image folders.
+Do not rename columns or move images unless you update src/config.py.

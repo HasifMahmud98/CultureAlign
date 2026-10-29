@@ -3,5 +3,5 @@ __pycache__/
 .venv/
 .env
 !results/.gitkeep
-data/ShilpoBangla/*
+# data/ShilpoBangla/*
 !data/ShilpoBangla/.gitkeep
